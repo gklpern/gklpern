@@ -9,10 +9,10 @@ I love building practical ML systems: from **RAG/agents** to **time series** and
 ---
 
 ## 🔭 What I'm Working On
-- **LLM / RAG tooling:** CSV question answering & agents that automate small research tasks.
+- **LLM / RAG tooling:** Chatbot and Question answering & agents that automate small research tasks.
 - **Applied ML:** forecasting, churn & sentiment analysis, e-commerce text classification.
 - **Hackathons:** fast MVPs with clean APIs, reproducible notebooks, and minimal infra.
-
+- **Machine Learning:** Fine-tuning and training Machine Learning models and transformers.
 ---
 
 ## 🧰 Tech Stack
@@ -23,7 +23,6 @@ I love building practical ML systems: from **RAG/agents** to **time series** and
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
