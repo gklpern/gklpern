@@ -3,9 +3,6 @@
 
 # I'm Gökalp Eren Akol
 
-Senior Computer Engineering student from Istanbul — passionate about **GenAI, LLMs, and Machine Learning**.  
-I love building practical ML systems: from **RAG/agents** to **time series** and **classification**.
-
 ---
 
 ## What I'm Working On
