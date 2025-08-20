@@ -1,5 +1,5 @@
 <!-- Profile README for @gklpern -->
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi there </h1>
 
 # I'm Gökalp Eren Akol
 
@@ -8,14 +8,14 @@ I love building practical ML systems: from **RAG/agents** to **time series** and
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 - **LLM / RAG tooling:** Chatbot and Question answering & agents that automate small research tasks.
 - **Applied ML:** forecasting, churn & sentiment analysis, e-commerce text classification.
 - **Hackathons:** fast MVPs with clean APIs, reproducible notebooks, and minimal infra.
 - **Machine Learning:** Fine-tuning and training Machine Learning models and transformers.
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
