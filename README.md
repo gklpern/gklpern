@@ -4,8 +4,6 @@
 # I'm Gökalp Eren Akol
 
 
-<details>
-<summary>⚡ Latest activity / hackathons</summary>
 
 ---
 
