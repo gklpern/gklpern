@@ -3,14 +3,7 @@
 
 # I'm Gökalp Eren Akol
 
----
 
-## What I'm Working On
-- **LLM / RAG tooling:** Chatbot and Question answering & agents that automate small research tasks.
-- **Applied ML:** forecasting, churn & sentiment analysis, e-commerce text classification.
-- **Hackathons:** fast MVPs with clean APIs, reproducible notebooks, and minimal infra.
-- **Machine Learning:** Fine-tuning and training Machine Learning models and transformers.
----
 
 ## Tech Stack
 <p>
