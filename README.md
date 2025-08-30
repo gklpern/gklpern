@@ -4,43 +4,8 @@
 # I'm Gökalp Eren Akol
 
 
-
-## Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-- **CSV-AI** — RAG over CSV: ask in natural language, get structured answers.  
-  <a href="https://github.com/gklpern/CSV-AI">Repo</a>
-- **rag_linkedin_ai_agent** — LangChain agent that finds a person’s LinkedIn URL via web search.  
-  <a href="https://github.com/gklpern/rag_linkedin_ai_agent">Repo</a>
-- **Kaggle Store Sales Forecasting** — XGBoost time-series pipeline, containerized with Docker.  
-  <a href="https://github.com/gklpern/Kaggle-Store-Sales-Time-Series-Forecasting">Repo</a>
-- **IBM Telco Churn** — classic churn modeling with solid EDA and baselines.  
-  <a href="https://github.com/gklpern/IBM-telco-churn-project">Repo</a>
-- **Amazon Sentiment Analysis** — LSTM sentiment classifier for review texts.  
-  <a href="https://github.com/gklpern/Amazon-Sentiment-Analysis">Repo</a>
-- **E-commerce Text Classification** — product text classification experiments.  
-  <a href="https://github.com/gklpern/e-commerce-text-classification">Repo</a>
-
 <details>
 <summary>⚡ Latest activity / hackathons</summary>
-
-- **turkcell-codenight-case4** — bill explainability + anomaly detection + what-if simulator (MVP).  
-  <a href="https://github.com/gklpern/turkcell-codenight-case4">Repo</a>
-
-- **llm-scratch** — personal sandbox for local LLM experiments.  
-  <a href="https://github.com/gklpern/llm-scratch">Repo</a>
-</details>
 
 ---
 
