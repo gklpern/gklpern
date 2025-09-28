@@ -1,5 +1,4 @@
 <!-- Profile README for @gklpern -->
-<h1 align="left">Hi there </h1>
 
 # I'm Gökalp Eren Akol
 
@@ -7,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=gklpern&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gklpern&layout=compact&theme=radical" height="150" />
@@ -23,7 +22,7 @@
 
 ---
 
-## 🔗 Connect
+##  Connect
 <p>
   <a href="https://www.linkedin.com/in/gokalpakol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gokalpakol@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
