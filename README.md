@@ -11,17 +11,6 @@ I build measurable, reliable AI systems at the intersection of deep learning res
 - Engineering focus: **RAG, LLM evaluation, inference optimization, and production AI services**
 - Interested in systems where model quality, latency, reliability, and cost can be evaluated—not just demonstrated
 
-## Selected Engineering Projects
-
-### [TensorRT-LLM Serving Bench](https://github.com/gklpern/tensorrt-llm-serving-bench)
-
-A reproducible LLM inference and serving benchmark for comparing Hugging Face, vLLM, and TensorRT-LLM backends. It measures TTFT, throughput, tail latency, VRAM usage, concurrency behavior, and quality regression across precision and quantization configurations.
-
-`TensorRT-LLM` · `vLLM` · `FastAPI` · `Prometheus` · `Grafana` · `Docker`
-
-### [EvidenceBench RAG](https://github.com/gklpern/evidencebench-rag)
-
-An enterprise-oriented RAG system built around tenant isolation, hybrid retrieval, evidence gating, verified citations, and abstention. The project treats retrieval quality, faithfulness, security, and operational visibility as first-class engineering concerns.
 
 `RAG` · `PostgreSQL` · `pgvector` · `FastAPI` · `Redis` · `Prometheus`
 
