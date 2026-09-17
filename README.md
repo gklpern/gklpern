@@ -1,27 +1,28 @@
 # Gökalp Eren Akol
 
-**AI Engineer · MSc Computer Engineering @ Istanbul Technical University**
+**AI Engineer @PEAKUP · MSc Computer Engineering @ Istanbul Technical University**
 
-I build measurable, reliable AI systems at the intersection of deep learning research and production engineering. My academic work focuses on **deep learning and computer vision**; in industry, I focus on **GenAI engineering**, including retrieval, evaluation, inference, and observability.
+I build production-grade AI systems across **Microsoft AI, Enterprise GenAI, and deep learning**. My work spans agentic systems, RAG, enterprise integrations, evaluation, inference optimization, and observability, while my academic research focuses on **deep learning and computer vision**.
 
 ## About
 
-- MSc student in Computer Engineering at **Istanbul Technical University** — GPA: **3.42/4.00**
-- Academic focus: **deep learning and computer vision**
-- Engineering focus: **RAG, LLM evaluation, inference optimization, and production AI services**
-- Interested in systems where model quality, latency, reliability, and cost can be evaluated—not just demonstrated
+* MSc student in Computer Engineering at **Istanbul Technical University** — GPA: **3.42/4.00**
+* Industry focus: **Microsoft AI, Enterprise GenAI, AI Agents, RAG, and production AI systems**
+* Academic focus: **deep learning, computer vision, and representation learning**
+* Engineering focus: **Microsoft Foundry, Copilot Studio, MCP, LLM evaluation, inference optimization, and AI service development**
+* Interested in systems where **model quality, latency, reliability, security, and cost** can be measured—not just demonstrated
 
-
-Microsoft · GenAI · Enterprise GenAI · Azure · Microsoft Foundry · Copilot Studio · AI Agents · MCP · RAG · LLM · Deep Learning · FastAPI · REST APIs · OpenAPI · PostgreSQL · pgvector · Redis · Docker · Entra ID · OAuth 2.0 · Prometheus · AWS
+`Microsoft` · `GenAI` · `Enterprise GenAI` · `Azure` · `Microsoft Foundry` · `Copilot Studio` · `AI Agents` · `MCP` · `RAG` · `LLM` · `Deep Learning` · `FastAPI` · `REST APIs` · `OpenAPI` · `PostgreSQL` · `pgvector` · `Redis` · `Docker` · `Entra ID` · `OAuth 2.0` · `Prometheus` · `AWS`
 
 ## Technical Focus
 
-| Area | Topics |
-| --- | --- |
-| Deep Learning | Computer vision, representation learning, model evaluation |
-| GenAI Engineering | RAG, grounding, citation verification, abstention, LLM evaluation |
-| Inference Engineering | TensorRT-LLM, vLLM, quantization, latency and throughput benchmarking |
-| Production Systems | Python, FastAPI, PostgreSQL, Redis, Docker, Prometheus, Grafana |
+| Area                      | Topics                                                                                   |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| Microsoft & Enterprise AI | Azure, Microsoft Foundry, Copilot Studio, AI Agents, MCP, Entra ID                       |
+| GenAI Engineering         | RAG, grounding, tool use, enterprise integrations, LLM evaluation, citation verification |
+| Deep Learning             | Computer vision, representation learning, model evaluation                               |
+| Inference Engineering     | TensorRT-LLM, vLLM, quantization, latency and throughput benchmarking                    |
+| Production Systems        | Python, FastAPI, REST/OpenAPI, PostgreSQL, pgvector, Redis, Docker, Prometheus, Grafana  |
 
 ## Connect
 
