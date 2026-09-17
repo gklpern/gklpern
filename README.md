@@ -12,7 +12,7 @@ I build measurable, reliable AI systems at the intersection of deep learning res
 - Interested in systems where model quality, latency, reliability, and cost can be evaluated—not just demonstrated
 
 
-`RAG` · `PostgreSQL` · `pgvector` · `FastAPI` · `Redis` · `Prometheus`
+Microsoft · GenAI · Enterprise GenAI · Azure · Microsoft Foundry · Copilot Studio · AI Agents · MCP · RAG · LLM · Deep Learning · FastAPI · REST APIs · OpenAPI · PostgreSQL · pgvector · Redis · Docker · Entra ID · OAuth 2.0 · Prometheus · AWS
 
 ## Technical Focus
 
