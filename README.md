@@ -1,6 +1,7 @@
 # Gökalp Eren Akol
 
-**AI Engineer @PEAKUP · MSc Computer Engineering @ Istanbul Technical University**
+**AI Engineer @PEAKUP · 
+**MSc Computer Engineering @ Istanbul Technical University**
 
 I build production-grade AI systems across **Microsoft AI, Enterprise GenAI, and deep learning**. My work spans agentic systems, RAG, enterprise integrations, evaluation, inference optimization, and observability, while my academic research focuses on **deep learning and computer vision**.
 
